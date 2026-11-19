@@ -1,3 +1,7 @@
+<p align="center">
+  <strong>English</strong> | <a href="README.zh-CN.md">简体中文</a>
+</p>
+
 # office-skill
 
 **Token-compact, guardrail-first `.xlsx`, `.docx`, and `.pptx` skill for AI coding agents.**
@@ -10,7 +14,7 @@ Cross-platform (**Linux / WSL / macOS / Windows**). Built for beginners who just
 
 Copy and paste this sentence to your AI agent (Antigravity, Claude Code, Codex, Cursor, etc.):
 
-> Read https://github.com/26kyo/office-skill/blob/main/AGENT_INSTALL.md and install the `office` skill for me, then run its self-check and report the result.
+> Read https://raw.githubusercontent.com/26kyo/office-skill/main/AGENT_INSTALL.md and install the `office` skill for me, then run its self-check and report the result.
 
 ---
 
