@@ -1,0 +1,6 @@
+openpyxl>=3.1
+pandas>=2.0
+python-docx>=1.1
+docxtpl>=0.18
+python-pptx>=1.0
+lxml>=5.0
