@@ -6,7 +6,7 @@
 
 **面向 AI 编程 Agent 的省 Token、强校验 `.xlsx` / `.docx` / `.pptx` 读写 Skill。**
 
-跨平台支持 **Linux / WSL / macOS / Windows**。专为想让 Agent 无脑、可靠读写 Office 文件的新手设计：不炸上下文、不产出带 `#REF!` 的坏表格、不破坏已有 Word 排版。
+跨平台支持 **Linux / WSL / macOS / Windows**。专为想让 Agent 无脑、可靠读写 Office 文件的新手设计。
 
 ---
 
